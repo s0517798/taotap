@@ -48,11 +48,11 @@ const app = new Vue({
     logo: "/imgs/logo.png",
     logoSize: 250,
 
-    url: "https://linktr.ee/codedao",
+    url: "https://thethongtin.com/ttt",
     qrCode: undefined,
     qrSize: 275,
 
-    name: "Phạm Huy Hoàng",
+    name: "Nguyễn Anh ",
     fontSize: 85,
     fonts: fonts,
     font: fonts[0],
