@@ -52,7 +52,7 @@ const app = new Vue({
     qrCode: undefined,
     qrSize: 275,
 
-    name: "Nguyễn Anh Tuấn",
+    name: "Thẻ ThôTinTin",
     fontSize: 85,
     fonts: fonts,
     font: fonts[0],
