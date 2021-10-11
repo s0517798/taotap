@@ -24,7 +24,7 @@ const readFile = file => {
 
 const getBackgrounds = () => {
   const backgrounds = [
-    "/imgs/1.jpeg", "/imgs/2.jpeg", "/imgs/3.jpeg", "/imgs/4.jpeg", "/imgs/5.jpeg", "/imgs/6.jpeg"
+    "/imgs/1.jpeg", "/imgs/2.jpeg", "/imgs/3.jpeg", "/imgs/4.jpeg", "/imgs/5.jpeg", "/imgs/6.jpeg", "/imgs/7.jpeg", "/imgs/8.jpeg", "/imgs/9.jpeg", "/imgs/10.jpeg"
   ];
 
   return Promise.all(backgrounds.map(bg => toDataURL(bg)));
